@@ -3,7 +3,7 @@
 - Filter suggestions based on category (All, Bug, Feature, Enhancement, UX, UI).
 - Sort suggestions based on upvotes (most or least upvotes)
 
-Both fitlering and sorting are done in the backend. 
+Both filtering and sorting are done in the backend. 
 
 # Technologies
 
