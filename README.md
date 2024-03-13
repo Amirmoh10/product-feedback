@@ -1,3 +1,16 @@
+# Functionalities: 
+
+- Filter suggestions based on category (All, Bug, Feature, Enhancement, UX, UI).
+- Sort suggestions based on upvotes (most or least upvotes)
+
+Both fitlering and sorting are done in the backend. 
+
+# Technologies
+
+- Backend: Supabase
+- Frontend: React, React Router, TanStack Query (state management), and Tailwindcss for styling. 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
